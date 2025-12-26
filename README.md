@@ -23,7 +23,7 @@ pip install -r requirements.txt
 streamlit run dashboard/app.py
 exit
 ```
-
+link dashboard : https://dashboardairqualityanalysis-ftjr7zzwjt7rqsngdwn8v4.streamlit.app/
 ## preview dashboard
 <img width="1910" height="870" alt="Screenshot 2025-12-27 004017" src="https://github.com/user-attachments/assets/eeddbbd2-9692-4029-ae97-734739b807ed" />
 <img width="1919" height="868" alt="Screenshot 2025-12-27 004303" src="https://github.com/user-attachments/assets/17678100-32ef-42ef-9a32-4cf4ae8b84df" />
