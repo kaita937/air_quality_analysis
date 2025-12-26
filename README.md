@@ -3,6 +3,16 @@
 ## Deskripsi
 Repository ini berisi analisis data kualitas udara menggunakan dataset Air Quality yang disediakan pada soal tugas. Analisis difokuskan pada eksplorasi konsentrasi PM2.5 serta hubungannya dengan faktor cuaca dan pola musiman.
 
+dataset Air Quality yang disediakan terdiri dari data 
+kualitas udara dan faktor cuaca dari beberapa stasiun pengamatan. Tahapan analisis dimulai 
+dari penggabungan data, pembersihan data (data cleaning), serta feature engineering untuk 
+menghasilkan data yang siap dianalisis.
+
+Pendekatan yang digunakan meliputi Exploratory Data Analysis (EDA) untuk 
+mengeksplorasi pola dan hubungan dalam data, serta Machine Learning sederhana berupa 
+regresi linear sebagai pendukung analisis.
+
+
 dataset : https://github.com/marceloreis/HTI/tree/master
 
 ## Tools & Library
